@@ -1,0 +1,21 @@
+{
+    "highlight-matching-tag.styles":  {
+
+        "opening": {
+          "name": {
+            // "underline": "yellow",
+            "highlight": "green",
+            // "surround": "yellow"
+
+          }
+        }
+    },
+    "highlight-matching-tag.highlightSelfClosing": true,
+    "colorize.colorized_colors": [
+    
+      "BROWSERS_COLORS",
+      "HEXA",
+      "RGB",
+      "HSL"
+    ]
+}
